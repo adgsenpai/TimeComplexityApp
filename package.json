@@ -1,0 +1,22 @@
+{
+    "name": "timecomplexityapp",
+    "version": "1.0.0",
+    "description": "A simple time complexity app to measure the time complexity of a function",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "repository": "https://github.com/adgsenpai/timecomplexityelectron",
+    "keywords": [
+        "Electron",
+        "ADA",
+        "NLP",
+        "ML",
+        "Time Complexity"
+    ],
+    "author": "ADGSENPAI",
+    "license": "CC0-1.0",
+    "devDependencies": {
+        "electron": "^16.0.6"
+    }
+}
