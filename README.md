@@ -1,6 +1,8 @@
 
 # Time Complexity App
 
+[![Node.js CI](https://github.com/adgsenpai/TimeComplexityApp/actions/workflows/node.js.yml/badge.svg)](https://github.com/adgsenpai/TimeComplexityApp/actions/workflows/node.js.yml)
+
 ##### Used to measure the time complexity of any function in any given language.
 
 #### Powered by Electron, Python, and OpenAI
